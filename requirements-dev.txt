@@ -1,6 +1,0 @@
-# Testes
-pytest
-pytest-cov
-black
-pylint
-pylint-report
